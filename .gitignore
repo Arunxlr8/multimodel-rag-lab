@@ -1,0 +1,6 @@
+﻿.venv/
+.env
+__pycache__/
+*.gguf
+local_qdrant/
+.ipynb_checkpoints/
